@@ -1,7 +1,7 @@
 # The Gruve
 
 🌐 **Live Website:**  
-Check it out here 👉 **[The Gruve Live Site](https://your-netlify-site-url.netlify.app)**
+Check it out here 👉 **[The Gruve Live Site]([https://your-netlify-site-url.netlify.app](https://thegruve.netlify.app/))**
 
 ## 🚀 About
 
